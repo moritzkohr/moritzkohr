@@ -14,6 +14,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## ⏳ WakaTime Stats
+
 <!--START_SECTION:waka-->
 
 ```txt
