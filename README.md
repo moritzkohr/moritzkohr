@@ -1,15 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-Java          5 hrs 43 mins   ████████████████████░░░░░   79.46 %
-TypeScript    1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-SQL           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JavaScript    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moritz-r-kohr-b4a921333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moritz.kohr@mail.de) 
 
@@ -26,7 +14,21 @@ IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░�
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<!--START_SECTION:waka-->
+
+```txt
+Java          5 hrs 43 mins   ████████████████████░░░░░   79.46 %
+TypeScript    1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+SQL           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JavaScript    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+IDEA_MODULE   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+```
+
+<!--END_SECTION:waka-->
+
+
 ---
 ![](https://komarev.com/ghpvc/?username=moritzkohr&style=for-the-badge)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
