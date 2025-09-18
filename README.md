@@ -14,7 +14,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## ⏳ WakaTime Stats
+## ⏳ WakaTime Stats 
+[![wakatime](https://wakatime.com/badge/user/2fba5e2a-9dfe-40d8-86ca-25a004ea298b.svg)](https://wakatime.com/@2fba5e2a-9dfe-40d8-86ca-25a004ea298b)
 
 <!--START_SECTION:waka-->
 
@@ -34,3 +35,4 @@ SQL               10 mins         ▓░░░░░░░░░░░░░░�
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
