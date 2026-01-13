@@ -20,7 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           2 mins          █████████░░░░░░░░░░░░░░░░   35.65 %
+XML              2 mins          ████████▓░░░░░░░░░░░░░░░░   35.17 %
+GitIgnore file   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+IDEA_MODULE      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
